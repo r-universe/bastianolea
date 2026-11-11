@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/bastianolea/bastianolea.r-universe.dev
 	branch = HEAD
+[submodule "poblador"]
+	path = poblador
+	url = https://github.com/bastianolea/poblador
 [submodule "territorial"]
 	path = territorial
 	url = https://github.com/bastianolea/territorial
